@@ -1,0 +1,13 @@
+C:\Users\Helton\Downloads\diocadastroseries\bin\Debug\netcoreapp3.1\ListaSeries.exe
+C:\Users\Helton\Downloads\diocadastroseries\bin\Debug\netcoreapp3.1\ListaSeries.deps.json
+C:\Users\Helton\Downloads\diocadastroseries\bin\Debug\netcoreapp3.1\ListaSeries.runtimeconfig.json
+C:\Users\Helton\Downloads\diocadastroseries\bin\Debug\netcoreapp3.1\ListaSeries.runtimeconfig.dev.json
+C:\Users\Helton\Downloads\diocadastroseries\bin\Debug\netcoreapp3.1\ListaSeries.dll
+C:\Users\Helton\Downloads\diocadastroseries\bin\Debug\netcoreapp3.1\ListaSeries.pdb
+C:\Users\Helton\Downloads\diocadastroseries\obj\Debug\netcoreapp3.1\ListaSeries.csproj.AssemblyReference.cache
+C:\Users\Helton\Downloads\diocadastroseries\obj\Debug\netcoreapp3.1\ListaSeries.AssemblyInfoInputs.cache
+C:\Users\Helton\Downloads\diocadastroseries\obj\Debug\netcoreapp3.1\ListaSeries.AssemblyInfo.cs
+C:\Users\Helton\Downloads\diocadastroseries\obj\Debug\netcoreapp3.1\ListaSeries.csproj.CoreCompileInputs.cache
+C:\Users\Helton\Downloads\diocadastroseries\obj\Debug\netcoreapp3.1\ListaSeries.dll
+C:\Users\Helton\Downloads\diocadastroseries\obj\Debug\netcoreapp3.1\ListaSeries.pdb
+C:\Users\Helton\Downloads\diocadastroseries\obj\Debug\netcoreapp3.1\ListaSeries.genruntimeconfig.cache
